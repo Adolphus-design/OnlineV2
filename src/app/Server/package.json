@@ -1,0 +1,17 @@
+{
+  "name": "onlinev2",
+  "version": "1.0.0",
+  "description": "back-end server for online system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "sql": "^0.78.0"
+  }
+}
